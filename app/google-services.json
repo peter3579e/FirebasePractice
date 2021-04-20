@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "990880832874",
+    "project_id": "fir-practice-ab8bb",
+    "storage_bucket": "fir-practice-ab8bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990880832874:android:379d4f518ea302891f1913",
+        "android_client_info": {
+          "package_name": "com.peter.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990880832874-5a36i5975foa2235p2oukkt5h25m3enq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm4Tlgg9Gv-Ikt7hQkgCkUJ2O0vcHWocE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990880832874-5a36i5975foa2235p2oukkt5h25m3enq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990880832874-00jthbuvorksfg45q6l40hr66r2g3gt9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rachelpei.FirebasePractice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990880832874:android:4b687cb3a9221b5c1f1913",
+        "android_client_info": {
+          "package_name": "com.peter.firebasepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990880832874-5a36i5975foa2235p2oukkt5h25m3enq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm4Tlgg9Gv-Ikt7hQkgCkUJ2O0vcHWocE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990880832874-5a36i5975foa2235p2oukkt5h25m3enq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990880832874-00jthbuvorksfg45q6l40hr66r2g3gt9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rachelpei.FirebasePractice"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990880832874:android:add5dccf170d4a7b1f1913",
+        "android_client_info": {
+          "package_name": "com.peter.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990880832874-5a36i5975foa2235p2oukkt5h25m3enq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm4Tlgg9Gv-Ikt7hQkgCkUJ2O0vcHWocE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990880832874-5a36i5975foa2235p2oukkt5h25m3enq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990880832874-00jthbuvorksfg45q6l40hr66r2g3gt9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "rachelpei.FirebasePractice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
